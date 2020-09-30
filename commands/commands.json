@@ -1,0 +1,32 @@
+{
+    "commandList": [
+        {
+            "name":"Create",
+            "description":"create an uno game"
+        },
+        {
+            "name":"Join",
+            "description":"Join an UNO game"
+        },
+        {
+            "name":"Leave",
+            "description":"Leave an UNO game"
+        },
+        {
+            "name":"Rickroll",
+            "description":"RickRoll those fella's"
+        },
+        {
+            "name":"Say",
+            "description":"Say something in the game chat!"
+        },
+        {
+            "name":"Start",
+            "description":"Start the UNO game"
+        },
+        {
+            "name":"Vote",
+            "description":"Vote for something"
+        }
+    ]
+}
